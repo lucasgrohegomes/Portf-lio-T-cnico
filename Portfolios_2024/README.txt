@@ -1,0 +1,1 @@
+Estes são os portfólios do Terceiro ano do Ensino Médio Técnico da Escola S, específicamente de 2024. 
