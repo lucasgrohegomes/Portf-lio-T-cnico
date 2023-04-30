@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ruan</title>
+</head>
+<body>
+    <h1>Calcular Idade / Calcular Média entre Números</h1>
+    <h2>Lucas Grohe Gomes, 2C</h2>
+    <button onclick ="idade()">Cálculo da idade</button>
+    <button onclick ="media()">Cálculo da Média</button>
+</body>
+</html>
+<script>
+    function idade(){
+
+
+        var nome = prompt("digite o seu nome")
+            alert("Bem vindo "+nome+" !")
+        var ano = prompt("digite o ano que você nasceu")
+        var idadeatual = 2023 - ano
+        if(idadeatual >= 18)
+        {
+            alert("Então você deve ter "+idadeatual+" anos de idade, o que significa que é maior de idade")
+        }
+        else
+        {
+            alert("Então você deve ter "+idadeatual+" anos de idade, o que significa que é menor de idade")
+        }
+    }
+    function media(){
+   
+   var quantidade = prompt("digite a quantidade de valores que serão usados para calcular a média")
+   var resultado, soma = 0
+   for(var i = 1; i<=quantidade; i++){
+    soma +=Number(prompt("Digite o "+i+" numero!"))
+   }
+   resultado = soma / quantidade
+   alert("A média é "+resultado)
+}
+</script>
+
+
+
+
+
