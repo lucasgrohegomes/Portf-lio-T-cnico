@@ -1,0 +1,1 @@
+Essas atividades envolvem a ideia de criar uma calculadora que mede a média entre uma quantidade escolhida entre números. Um documento foi feito em Portugol e o outro em Javascript.
