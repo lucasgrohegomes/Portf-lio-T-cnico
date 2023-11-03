@@ -1,0 +1,12 @@
+.base {
+    background-color: lightpink;
+    color: black;
+    font-size:  36px;
+}
+.hoverc:hover {
+ background: black;
+ color: white;
+}
+#pequeno {
+ font-size: 12px;  
+}
