@@ -1,4 +1,4 @@
-Essas são as atividades significativas que escolhi para colocar neste portfólio do terceiro trimestre.
+Essas são as atividades significativas que eu escolhi para colocar neste portfólio do terceiro trimestre.
 
 O arquivo PDF fala sobre perguntas relacioanadas ao Ciclo de Vida de Desenvolvimento de Software e as diferentes fases e campos de atuação na qual os desenvolvedores e seus clientes tem que interagir e trabalhar para alcançar o desenvolvimento de um software adequado aos seus interesses.
 
